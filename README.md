@@ -1,4 +1,5 @@
 # backend dev notes
+![images-1](https://github.com/user-attachments/assets/1ae446f4-533e-41a8-9b7f-2ae875307ba8)
 
 color coded btw. i think it's so kAwaII you want go deep into backend dev. come with me >O< and take it from the back vine boom NONE OF THIS WAS AI GENERATED BTW. also similar to my growth notes this is meant for 0 - 10000 (see most popular: 650k views, 2.6k likes)
 
